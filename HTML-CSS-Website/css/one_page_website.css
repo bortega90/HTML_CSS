@@ -1,0 +1,12 @@
+input {
+    width: 50% ;
+    margin: 10px ;
+    border: 2px double whitesmoke;
+    border-radius: 8px ;
+
+}
+
+body {
+    font-size: 14px;
+    font-family: sans-serif;
+}
