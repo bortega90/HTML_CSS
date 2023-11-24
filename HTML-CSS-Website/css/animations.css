@@ -114,7 +114,8 @@
   /* Create four equal columns that floats next to eachother */
   .column {
     float: left;
-    width: 25%;
+    width: 23%;
+    
   }
   
   /* The Modal (background) */
@@ -202,16 +203,11 @@
     top: 0;
   }
   
-  /* Caption text */
-  .caption-container {
-    text-align: center;
-    background-color: black;
-    padding: 2px 16px;
-    color: white;
-  }
+
+  
   
   img.demo {
-    opacity: 0.6;
+    opacity: 0.2;
   }
   
   .active,
